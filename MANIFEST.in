@@ -1,0 +1,2 @@
+recursive-include google_product_feeder/locale *
+recursive-include google_product_feeder/templates *
